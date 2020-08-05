@@ -1,8 +1,8 @@
 ### Hey 👋🏽, I'm [Sachin!](https://machinelearningpoint.com) 
 
-<!-- 
+<!-- -->
 **sachinsingh3107/sachinsingh3107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 <br/>
 
 
@@ -49,7 +49,7 @@ Hi, I'm Sachin Singh, a Data Scientist 🚀 from India, currently, I'm working w
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-professional-python-programmer-computer-programmin-5230427%2F&psig=AOvVaw0owFsT54b7Ekjn-XjTEaZ5&ust=1596705384530000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCBgJ7dg-sCFQAAAAAdAAAAABAD"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
