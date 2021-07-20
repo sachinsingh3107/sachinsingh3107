@@ -32,7 +32,7 @@
 
 <br />
 
-Hi, I'm Sachin Singh, a Data Scientist 🚀 from India, currently, I'm working with 🙍🏽‍♂️ [@Silstone Group](https://www.silstonegroup.com/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Sachin Singh, a Data Scientist 🚀 from India, currently, I'm working with 🙍🏽‍♂️ Capgemini. Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
