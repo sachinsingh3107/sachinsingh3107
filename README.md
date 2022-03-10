@@ -32,34 +32,34 @@
 
 <br />
 
-Hi, I'm Sachin Singh, a Data Scientist 🚀 from India, currently, I'm working with 🙍🏽‍♂️ Capgemini. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Sachin Singh, a Senior Software Engineer 🚀 from India, currently, I'm working with 🙍🏽‍♂️ GlobalLogic (A Hitachi Company). Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on a Predictive Model for Cancer Patient;
-- 🌱 I’m currently learning GraphQL and C++; 
-- 👯 I’m looking to collaborate on [Machine Learning Point](www.machinelearningpoint.com) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 👨🏽‍💻 I’m currently helping organization transform from legacy systems to micro-service based architecture;
+- 🌱 I’m currently learning Flutter, Splunk and AWS; 
+- 👯 I'd a failed startup, [Machine Learning Point](www.machinelearningpoint.com) 🤝;
+- 🤔 I’m looking for help with Django 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started helping ML aspirants, by launching my own platform known as [Machine Learning Point](www.machinelearningpoint.com) in 2019, and it is free for everyone! I do have teaching experience of more than 1500 hours!
 - 📫 How to reach me: sachinsingh31@outlook.com;
-<!-- - 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view) -->
+- 📝[Resume](https://drive.google.com/file/d/1waeTCRDmlGNiYit7JtQW8G-UBY3cSnyl/view?usp=sharing)
+- 📝[CV](https://drive.google.com/file/d/1lDVpFqEHtTS-B0ht--fLgIY9Jls7VXyg/view?usp=sharing)
 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
 
 
