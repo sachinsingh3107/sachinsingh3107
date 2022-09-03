@@ -1,7 +1,4 @@
-### Hey 👋🏽, I'm [Sachin!](https://machinelearningpoint.com) 
-
-<!-- -->
-**sachinsingh3107/sachinsingh3107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey 👋🏽, I'm Sachin
 
 <br/>
 
@@ -45,8 +42,8 @@ Hi, I'm Sachin Singh, a Senior Software Engineer 🚀 from India, currently, I'm
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started helping ML aspirants, by launching my own platform known as [Machine Learning Point](www.machinelearningpoint.com) in 2019, and it is free for everyone! I do have teaching experience of more than 1500 hours!
 - 📫 How to reach me: sachinsingh31@outlook.com;
-- 📝[Resume](https://drive.google.com/file/d/1waeTCRDmlGNiYit7JtQW8G-UBY3cSnyl/view?usp=sharing)
-- 📝[CV](https://drive.google.com/file/d/1lDVpFqEHtTS-B0ht--fLgIY9Jls7VXyg/view?usp=sharing)
+- 📝[LinkedIn](https://www.linkedin.com/in/sachin-singh-ss31/)
+- 📝[Hackerrank](https://www.hackerrank.com/sachinsingh31?hr_r=1)
 
 **Languages and Tools:**  
 
